@@ -9,7 +9,7 @@
     "build": "webpack --mode=production --progress --colors --watch",
     "dev": "webpack-dev-server --config webpack.dev.js --mode=development --progress --colors"
   },
-  "author": "HIKVISION",
+  "author": "SIGN",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^8.1.0",

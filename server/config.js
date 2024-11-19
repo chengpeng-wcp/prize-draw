@@ -65,7 +65,7 @@ const EACH_COUNT = [1, 3, 4, 5, 5, 5, 5];
 /**
  * 卡片公司名称标识
  */
-const COMPANY = "HIKVISION";
+const COMPANY = "SIGN";
 
 module.exports = {
   prizes,
